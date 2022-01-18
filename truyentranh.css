@@ -1,0 +1,107 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.heading{
+	display: flex;
+	height: 60px;
+	background-color: blueviolet;
+}
+.search{
+	padding: 10px;
+	margin-left: 100px;
+	display: flex;
+	margin-bottom: 10px;
+	color: white;
+}
+.bibi{
+	margin-bottom: 10px;
+	padding: 5px;
+}
+.login{
+	margin-left: 300px;
+}
+.menu{
+	width: 70%;
+	margin: 0px auto;
+	height: 50px;
+}
+.icon{
+	padding: 14px;
+}
+.icon2{
+	padding: 14px;
+}
+.menu ul{
+   list-style-type: none;
+   display: flex;
+   padding: 0px;
+   margin: 0px;
+   cursor: pointer;
+   background-color: #ebe4d1;
+}
+.menu ul li{
+	padding: 18px;
+	font-size: 12px;
+	margin: 0px auto;
+}
+.menu ul li:hover{
+   background-color: white;
+}
+.main{
+	height: 800px;
+	width: 70%;
+	margin: 0px auto;
+}
+.main-offer{
+	height: 280px;
+	width: calc(100%/5);
+}
+.of1{
+   display: flex;
+}
+.of1 img{
+	margin-left: 15px;
+}
+.of1 label{
+	margin-left: 10px;
+}
+.main-content{
+	width: 65%;
+	float: left;
+	width: calc(100%/4);
+	
+}
+.of2{
+	display: flex;
+}
+.of2 img{
+   margin-left: 15px;
+}
+.of2 label{
+	margin-left: 10px;
+}
+.main-right{
+	width: 35%;
+	float: left;
+	margin-left: 300px;
+}
+.menu2 ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	cursor: pointer;
+	background-color: #ebe4d1;
+}
+.menu2 ul li{
+	padding: 10px;
+	font-size: 20px;
+}
+.menu2 ul li:hover{
+	background-color: white;
+}
+.of3{
+	display: flex;
+	padding: 5px;
+}
